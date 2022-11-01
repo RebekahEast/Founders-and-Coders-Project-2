@@ -6,10 +6,17 @@
     font-family: cursive;
 }
 
+.header {
+    padding: 60px;
+    text-align: center;
+    background: rgb(228, 167, 167);
+    color: rgb(14, 14, 14);
+    !font-family: sans-serif;
+}
+
 .container {
     background-color: rgb(228, 167, 167);
     padding: 10px;
-    height:400;
     margin: 50px;
     display: flex;
     flex-direction: row;
@@ -19,23 +26,22 @@
 }
 
  .project { 
-    background-color: rgb(76, 65, 60);
+    background-color: rgb(120, 64, 39);
     color:rgb(234, 238, 242);
     font-size: 15px;
     padding: 10px;
     margin: 10px;
-    width: 60px
-    height: 100px
+
+    flex: 1 0 100px;
 }
 
 .pro-1 {
-    height: 40px;
 }
 
 .pro-2 {
-    align-self: flex-start;
+
 }
 
 .pro-3 {
-    align-self: flex-end;
+
 }
