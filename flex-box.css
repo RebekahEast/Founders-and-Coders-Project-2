@@ -1,19 +1,19 @@
-*{
+* {
     margin:0;
     padding:0;
     box-sizing: border-box;
 }
 
-.container{
+.container {
     background-color: brown;
     padding: 10px;
     margin: 50px;
 }
 
-.item{
+.project { 
     background-color: coral;
     color:aliceblue;
     font-size: 35px;
     padding: 20px;
-    margin: 10px;
+    margin: 100px;
 }
