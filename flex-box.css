@@ -3,30 +3,39 @@
     padding:0;
     box-sizing: border-box;
     text-align: center;
+    font-family: cursive;
 }
 
 .container {
-    background-color: rgb(247, 225, 225);
+    background-color: rgb(228, 167, 167);
     padding: 10px;
+    height:400;
     margin: 50px;
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: baseline;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
  .project { 
     background-color: rgb(76, 65, 60);
-    color:rgb(81, 110, 135);
-    font-size: 20px;
+    color:rgb(234, 238, 242);
+    font-size: 15px;
     padding: 10px;
     margin: 10px;
+    width: 60px
+    height: 100px
 }
 
 .pro-1 {
-    height: 1px;
+    height: 40px;
 }
 
 .pro-2 {
-    font-size: 50px;
+    align-self: flex-start;
+}
+
+.pro-3 {
+    align-self: flex-end;
 }
