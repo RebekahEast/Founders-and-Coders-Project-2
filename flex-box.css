@@ -5,15 +5,23 @@
 }
 
 .container {
-    background-color: brown;
+    background-color: rgb(247, 225, 225);
     padding: 10px;
     margin: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .project { 
-    background-color: coral;
+    background-color: rgb(76, 65, 60);
     color:aliceblue;
     font-size: 35px;
     padding: 20px;
-    margin: 100px;
+    margin: 20px;
+}
+
+.project-3 {
+    height: 150px;
 }
