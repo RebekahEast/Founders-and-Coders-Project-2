@@ -49,39 +49,14 @@ img {
     flex: 1 2 500px;
 }
 
-.moreText1 {
-    display: none;
-}
-
-.moreText4 {
-    display: none;
-}
-
-.read-more-refill {
-    padding: 6px 6px;
-    background-color: rgb(228, 167, 167);
-    color: rgb(120, 64, 39);
+.project button{
+    padding: 10px;
+    background: rgb(239, 190, 168);
+    color:rgb(120, 64, 39);
     border: none;
-    outline: none;
     cursor: pointer;
 }
 
-.read-more-four {
-    padding: 6px 6px;
-    background-color: rgb(228, 167, 167);
-    color: rgb(120, 64, 39);
-    border: none;
-    outline: none;
-    cursor: pointer;
-}
-
-.text1.show-more .moreText1{
-    display: inline;
-}
-
-.Text4.show-more .moreText4{
-    display: inline;
-}
 
 body {
     background: rgb(239, 190, 168);
