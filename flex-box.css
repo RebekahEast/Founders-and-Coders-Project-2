@@ -49,17 +49,38 @@ img {
     flex: 1 2 500px;
 }
 
-.MoreText {
+.moreText1 {
     display: none;
 }
 
-.read-more-btn {
+.moreText4 {
+    display: none;
+}
+
+.read-more-refill {
     padding: 6px 6px;
     background-color: rgb(228, 167, 167);
     color: rgb(120, 64, 39);
     border: none;
     outline: none;
     cursor: pointer;
+}
+
+.read-more-four {
+    padding: 6px 6px;
+    background-color: rgb(228, 167, 167);
+    color: rgb(120, 64, 39);
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.text1.show-more .moreText1{
+    display: inline;
+}
+
+.Text4.show-more .moreText4{
+    display: inline;
 }
 
 body {
