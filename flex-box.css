@@ -82,8 +82,10 @@ body {
 .contact {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
+    margin: 30px;
+    column-gap: 20%;
 }
 
 
