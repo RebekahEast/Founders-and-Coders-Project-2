@@ -49,6 +49,7 @@ a:hover {
     margin: 10px;
     flex: 1 2 500px;
     line-height: 2;
+    border-radius: 25px;
 }
 
 .project button{
@@ -86,6 +87,10 @@ body {
     align-items: center;
     margin: 30px;
     column-gap: 20%;
+}
+
+.photo {
+    border-radius: 20px;
 }
 
 
