@@ -62,7 +62,8 @@ a:hover {
     box-shadow: 0 4px rgb(173, 106, 52);
 }
 
-.project button:hover {
+.project button:hover 
+{
     background-color: rgb(172, 93, 57);
 }
 
