@@ -20,4 +20,4 @@ function readMore(btn){
 }
 
 
-// https://www.youtube.com/watch?v=QEZVTvtvDt4&t=235s&ab_channel=CodingArtist used to create the buttons! What a wild ride :D 
+// https://www.youtube.com/watch?v=QEZVTvtvDt4&t=235s&ab_channel=CodingArtist used as concept to create the buttons! What a wild ride :D 
