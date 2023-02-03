@@ -17,7 +17,6 @@
 
 
 <h3 align = "center"><b>Thing's I'd love to improve on</h3></b>
-<p align = "center">1. Rounding off the images to circles and having them be the same size so they match equally on the page<br><br>
-2. More animation on this page, or user interaction<br><br>
-3. adding gifs would be fun!<br><br>
-4. I'm not sure how to do this, but rather than having 75 characters and then cutting off to a read me, it would have been great to have the option to have it as one line no matter what size the page is.</p>
+1. More animation on this page, or user interaction<br><br>
+2. adding gifs would be fun!<br><br>
+3. I'm not sure how to do this, but rather than having 75 characters and then cutting off to a read me, it would have been great to have the option to have it as one line no matter what size the page is.</p>
