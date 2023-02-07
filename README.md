@@ -17,6 +17,6 @@
 
 
 <h3 align = "center"><b>Thing's I'd love to improve on</h3></b>
-1. More animation on this page, or user interaction<br><br>
-2. adding gifs would be fun!<br><br>
-3. I'm not sure how to do this, but rather than having 75 characters and then cutting off to a read me, it would have been great to have the option to have it as one line no matter what size the page is.</p>
+<p>1. how to stop the box to the side opening when the read more button is clicked<br><br>
+2. live preview of the page so the images don't need to be updated<br><br>
+3. rather than having a certain number of characters and then cutting off to a read me, it would have been great to have the option to have it as one line no matter what size the page is.</p>
